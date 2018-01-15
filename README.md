@@ -35,9 +35,7 @@ Also, it's always bothered me that monsters just "pop" into existence at night. 
 
 ## Can I include it in a modpack? ##
 
-Since this is the first release and there might still be show-stopping bugs, I prefer to be asked before its included in a public modpack. But if you ask, I'll probably say yes! (You don't need permission to use it in a private modpack, of course.)
-
-I plan to give free permission to use it in modpacks once I'm confident that there aren't any [b]major[/b] bugs, like Enderdragons failing to spawn or something ridiculous like that.
+Go for it!
 
 ## How is it licensed? ##
 
