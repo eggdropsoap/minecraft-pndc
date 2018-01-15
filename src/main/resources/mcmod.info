@@ -1,0 +1,18 @@
+[
+{
+  "modid": "mod_pndc",
+  "name": "Peaceful Nights, Dangerous Caves",
+  "description": "Hostile mobs spawn only underground.",
+  "version": "0.1",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["eggdropsoap"],
+  "credits": "Created by eggdropsoap",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": [
+    "mod_MinecraftForge"
+  ]
+}
+]
